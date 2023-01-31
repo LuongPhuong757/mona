@@ -10,7 +10,7 @@ function AdminContainer(props) {
     return (
         <div class="container my-5">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12">     
                     <div class="row">
                         <FormProcesser {...props} />
                         <AdminProduct {...props} />
