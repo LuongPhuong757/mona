@@ -15,6 +15,7 @@ function AdminContainer(props) {
                         <FormProcesser {...props} />
                         <AdminProduct {...props} />
                     </div>
+                    
                 </div>
             </div>
         </div>
